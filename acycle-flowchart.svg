@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 952.3 1738.7" style="enable-background:new 0 0 952.3 1738.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-width:2;}
+	.st1{enable-background:new    ;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:15px;}
+	.st4{font-family:'AdobeSongStd-Light-GBpc-EUC-H';}
+	.st5{fill:none;}
+	.st6{fill:none;stroke:#000000;stroke-width:2;}
+</style>
+<source>
+	<![CDATA[
+		Created with Raphaël 2.1.2(1) Raw Data （*.txt file)"Plot"Any Error?Check file format (no header)"Plot" -> "Sampling Rate"Uniformly spaced?Zero Mean?Detrended DataConventional?(5) Power Spectral Analysis(6) Evolutionary Spectral AnalysisWavelet AnalysisOptimal sedimentation rateRecognition of orbital cycles(8) "Filtering": isolate orbital cycles"Build Age Model"(9) Astronomical Tuning ("Age Scale")(3) Interpolation?Uniformly Sampling Rate Data(4) DetrendingLomb-Scargle Periodogram(7) Correlation Coefficient (COCO)evolutionary COCOTimeOpteTimeOpt(2) "Sort/Unique/Remove-empty"yesnoyesnoyesnoyesnoyesno
+		]]>
+</source>
+<desc  style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.1.2</desc>
+<path id="st" class="st0" d="M68.1-2.3h141.7c11,0,20,8.2,20,18.3l0,0c0,10.1-9,18.3-20,18.3H68.1c-11,0-20-8.2-20-18.3l0,0
+	C48.1,5.9,57-2.3,68.1-2.3z"/>
+<text transform="matrix(1 0 0 1 58.0682 21.1978)" class="st1"><tspan x="0" y="0" class="st2 st3">(1) Raw Data </tspan><tspan x="92.5" y="0" class="st4 st3">（</tspan><tspan x="107.5" y="0" class="st2 st3">*.txt file)</tspan></text>
+<rect id="op_plot" x="110.7" y="85.4" class="st0" width="56.5" height="36.5"/>
+<text transform="matrix(1 0 0 1 120.6776 108.9454)" class="st2 st3">&quot;Plot&quot;</text>
+<path id="cond_check" class="st0" d="M100.8,182.1l-38.1,19.1l76.3,38.1l76.3-38.1L138.9,163l-76.3,38.1"/>
+<text transform="matrix(1 0 0 1 105.7811 206.3533)" class="st2 st3">Any Error?</text>
+<path id="io_check" class="st0" d="M21.8,351.1l-10,18.3H246l20-36.7H31.8L21.8,351.1"/>
+<text transform="matrix(1 0 0 1 41.7948 356.3104)" class="st2 st3">Check file format (no header)</text>
+<rect id="op_plotsample" x="331.3" y="182.8" class="st0" width="187.6" height="36.7"/>
+<text transform="matrix(1 0 0 1 341.3143 206.3397)" class="st2 st3">&quot;Plot&quot; -&gt; &quot;Sampling Rate&quot;</text>
+<path id="cond_sampleeven" class="st0" d="M367.3,302.4l-57.8,28.9l115.7,57.8l115.7-57.8l-115.7-57.8l-115.7,57.8"/>
+<text transform="matrix(1 0 0 1 372.2869 336.5038)" class="st2 st3">Uniformly spaced?</text>
+<path id="cond_trend" class="st0" d="M383.5,786.1L342,806.9l83.1,41.6l83.1-41.6l-83.1-41.6L342,806.9"/>
+<text transform="matrix(1 0 0 1 388.5468 812.1715)" class="st2 st3">Zero Mean?</text>
+<rect id="op_datadetrend" x="362.2" y="908.8" class="st0" width="125.9" height="36.5"/>
+<text transform="matrix(1 0 0 1 372.1737 932.3235)" class="st2 st3">Detrended Data</text>
+<path id="cond_convention" class="st0" d="M377.9,1009.2l-47.2,23.6l94.4,47.2l94.4-47.2l-94.4-47.2l-94.4,47.2"/>
+<text transform="matrix(1 0 0 1 382.91 1038.0673)" class="st2 st3">Conventional?</text>
+<path id="io_spectal" class="st0" d="M313,1155.6l-10,18.3h224.2l20-36.7H323L313,1155.6"/>
+<text transform="matrix(1 0 0 1 333.0096 1160.7531)" class="st2 st3">(5) Power Spectral Analysis</text>
+<path id="io_evofft" class="st0" d="M293,1230.9l-10,18.3h264.3l20-36.7H303L293,1230.9"/>
+<text transform="matrix(1 0 0 1 312.994 1236.0931)" class="st2 st3">(6) Evolutionary Spectral Analysis</text>
+<path id="io_wavelet" class="st0" d="M348.3,1318.4l-10,18.3h153.6l20-36.7H358.3L348.3,1318.4"/>
+<text transform="matrix(1 0 0 1 368.2987 1323.5919)" class="st2 st3">Wavelet Analysis</text>
+<rect id="op_sedrate" x="325.5" y="1373.5" class="st0" width="199.2" height="36.5"/>
+<text transform="matrix(1 0 0 1 335.494 1397.0291)" class="st2 st3">Optimal sedimentation rate</text>
+<path id="io_cycles" class="st0" d="M311.7,1465.1l-10,18.3h226.8l20-36.7H321.7L311.7,1465.1"/>
+<text transform="matrix(1 0 0 1 331.744 1470.2694)" class="st2 st3">Recognition of orbital cycles</text>
+<rect id="op_filter" x="300.6" y="1534.3" class="st0" width="249" height="36.7"/>
+<text transform="matrix(1 0 0 1 310.5956 1557.7631)" class="st2 st3">(8) &quot;Filtering&quot;: isolate orbital cycles</text>
+<rect id="op_agemodel" x="355.2" y="1627.8" class="st0" width="139.9" height="36.7"/>
+<text transform="matrix(1 0 0 1 365.1815 1651.2618)" class="st2 st3">&quot;Build Age Model&quot;</text>
+<path id="io_tuning" class="st0" d="M279.2,1724.3l-10,18.3H561l20-36.7H289.2L279.2,1724.3"/>
+<text transform="matrix(1 0 0 1 299.1971 1729.4351)" class="st2 st3">(9) Astronomical Tuning (&quot;Age Scale&quot;)</text>
+<path id="cond_ls" class="st0" d="M371.3,550l-53.8,26.9l107.5,53.8l107.5-53.8l-107.5-53.8l-107.5,53.8"/>
+<text transform="matrix(1 0 0 1 376.3475 582.0629)" class="st2 st3">(3) Interpolation?</text>
+<rect id="io_interp" x="314.3" y="689.1" class="st0" width="221.7" height="36.7"/>
+<text transform="matrix(1 0 0 1 324.2518 712.6002)" class="st2 st3">Uniformly Sampling Rate Data</text>
+<path id="io_ls" class="st0" d="M712.8,576.9l-10,18.3h223.4l20-36.7H722.8L712.8,576.9"/>
+<text transform="matrix(1 0 0 1 732.7792 582.0571)" class="st2 st3">Lomb-Scargle Periodogram</text>
+<path id="io_coco" class="st0" d="M594.6,1032.8l-10,18.3h269.8l20-36.7H604.6L594.6,1032.8"/>
+<text transform="matrix(1 0 0 1 614.5682 1037.9833)" class="st2 st3">(7) Correlation Coefficient (COCO)</text>
+<path id="io_ecoco" class="st0" d="M644.4,1126.7l-10,18.3h170l20-36.7h-170L644.4,1126.7"/>
+<text transform="matrix(1 0 0 1 664.4354 1131.8722)" class="st2 st3">evolutionary COCO</text>
+<path id="io_timeopt" class="st0" d="M681,1202l-10,18.2h97l20-36.5h-97L681,1202"/>
+<text transform="matrix(1 0 0 1 700.9823 1207.2904)" class="st2 st3">TimeOpt</text>
+<path id="io_etimeopt" class="st0" d="M676.8,1289.5l-10,18.2h105.3l20-36.5H686.8L676.8,1289.5"/>
+<text transform="matrix(1 0 0 1 696.8182 1294.7111)" class="st2 st3">eTimeOpt</text>
+<rect id="io_sue" x="306" y="446.5" class="st0" width="238.2" height="36.7"/>
+<text transform="matrix(1 0 0 1 316.0096 470.0257)" class="st2 st3">(2) &quot;Sort/Unique/Remove-empty&quot;</text>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203" d="M135.9,79.4l3,6l3-6H135.9z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M138.9,464.2"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_1_" d="M135.9,157l3,6l3-6H135.9z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M138.9,390.2"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_2_" d="M135.9,326.8l3,6l3-6H135.9z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M138.9,220.4"/>
+<text transform="matrix(1 0 0 1 143.9198 254.4881)" class="st2 st3">yes</text>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_3_" d="M325.3,204.2l6-3l-6-3V204.2z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M328.3,349"/>
+<text transform="matrix(1 0 0 1 220.1971 196.4295)" class="st2 st3">no</text>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_4_" d="M135.9,79.5l3,6l3-6H135.9z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M138.9,464.2"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_5_" d="M422.1,267.5l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1,279.7"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_6_" d="M422.1,759.3l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-386.4"/>
+<text transform="matrix(1 0 0 1 545.7831 326.4998)" class="st2 st3">yes</text>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_7_" d="M422.1,440.5l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1,70.5"/>
+<text transform="matrix(1 0 0 1 430.119 404.4139)" class="st2 st3">no</text>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_8_" d="M422.1,902.8l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-563.1"/>
+<text transform="matrix(1 0 0 1 430.119 863.6598)" class="st2 st3">yes</text>
+<path class="st5" d=""/>
+<path id="io_detrend_1_" class="st0" d="M137.1,806.9l-10,18.3H263l20-36.7H147.1L137.1,806.9"/>
+<text transform="matrix(1 0 0 1 157.119 812.0836)" class="st2 st3">(4) Detrending</text>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_30_" d="M279.3,803.9l-6,3l6,3V803.9z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M931.3-431"/>
+<text transform="matrix(1 0 0 1 323.2517 802.1715)" class="st2 st3">no</text>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_10_" d="M422.1,979.6l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-664.3"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_11_" d="M422.1,1131.2l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-852.2"/>
+<text transform="matrix(1 0 0 1 430.119 1095.1942)" class="st2 st3">yes</text>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_12_" d="M588.6,1035.8l6-3l-6-3V1035.8z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M591.6-714.5"/>
+<text transform="matrix(1 0 0 1 524.537 1028.0731)" class="st2 st3">no</text>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_13_" d="M422.1,1206.6l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-982.3"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_14_" d="M422.1,1294.1l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-1112.5"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_15_" d="M422.1,1367.5l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-1242.7"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_16_" d="M422.1,1440.8l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-1372.8"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_17_" d="M422.1,1528.3l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-1502.9"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_18_" d="M422.1,1621.8l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-1633.1"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_19_" d="M422.1,1699.9l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-1763.2"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_20_" d="M422.1,517.1l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-24.2"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_21_" d="M422.1,683.1l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-279.5"/>
+<text transform="matrix(1 0 0 1 430.119 645.8305)" class="st2 st3">yes</text>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_22_" d="M706.8,579.9l6-3l-6-3V579.9z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M1137.2-135.2"/>
+<text transform="matrix(1 0 0 1 537.662 572.1469)" class="st2 st3">no</text>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_23_" d="M422.1,759.3l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-386.4"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_24_" d="M422.1,902.8l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-563.2"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_25_" d="M726.5,1102.4l3,6l3-6H726.5z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M729.5-823.3"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_26_" d="M726.5,1177.8l3,6l3-6H726.5z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M729.5-953.5"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_27_" d="M726.5,1265.2l3,6l3-6H726.5z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M729.5-1083.6"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_28_" d="M422.1,1367.5l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-1242.8"/>
+<path class="st5" d=""/>
+<g transform="rotate(180 1.5 1.5) scale(0.6,0.6)">
+	<path id="raphael-marker-block-obj1203_29_" d="M422.1,517.1l3,6l3-6H422.1z"/>
+</g>
+<path marker-end="url(#raphael-marker-endblock33-obj1204)" d="M425.1-24.2"/>
+<line class="st6" x1="138.9" y1="34.4" x2="138.9" y2="85.4"/>
+<line class="st6" x1="138.9" y1="121.9" x2="138.9" y2="158.8"/>
+<line class="st6" x1="425.1" y1="220.4" x2="425.1" y2="273.5"/>
+<line class="st6" x1="425.1" y1="389.2" x2="425.1" y2="440.5"/>
+<line class="st6" x1="425.1" y1="483.2" x2="425.1" y2="523.2"/>
+<line class="st6" x1="425.1" y1="630.7" x2="425.1" y2="689.1"/>
+<line class="st6" x1="425.1" y1="725.8" x2="425.1" y2="765.9"/>
+<line class="st6" x1="425.1" y1="943.2" x2="425.1" y2="983.3"/>
+<line class="st6" x1="425.1" y1="848.2" x2="425.1" y2="908.8"/>
+<line class="st6" x1="425.1" y1="1080" x2="425.1" y2="1134.7"/>
+<line class="st6" x1="425.1" y1="1173.9" x2="425.1" y2="1211.1"/>
+<line class="st6" x1="425.1" y1="1249.2" x2="425.1" y2="1298.6"/>
+<line class="st6" x1="425.1" y1="1388.1" x2="425.1" y2="1442.8"/>
+<line class="st6" x1="425.1" y1="1483.4" x2="425.1" y2="1533.3"/>
+<line class="st6" x1="425.1" y1="1570.9" x2="425.1" y2="1623.2"/>
+<line class="st6" x1="425.1" y1="1664.4" x2="425.1" y2="1706"/>
+<line class="st6" x1="729.5" y1="1145" x2="729.5" y2="1182.9"/>
+<line class="st6" x1="729.5" y1="1220.3" x2="729.5" y2="1271.2"/>
+<line class="st6" x1="729.5" y1="1307.7" x2="729.5" y2="1353.1"/>
+<line class="st6" x1="729.5" y1="1051.1" x2="729.5" y2="1105.8"/>
+<line class="st6" x1="425.1" y1="1336.7" x2="425.1" y2="1369.5"/>
+<line class="st6" x1="215.2" y1="201.2" x2="331.3" y2="201.2"/>
+<line class="st6" x1="7.2" y1="64.6" x2="137.9" y2="64.6"/>
+<line class="st6" x1="7.2" y1="349" x2="21.8" y2="349"/>
+<line class="st6" x1="540.8" y1="331.3" x2="656.9" y2="331.3"/>
+<line class="st6" x1="277.4" y1="806.9" x2="342" y2="806.9"/>
+<line class="st6" x1="200" y1="927.1" x2="362.2" y2="927.1"/>
+<line class="st6" x1="519.5" y1="1032.8" x2="591.6" y2="1032.8"/>
+<line class="st6" x1="425.1" y1="1353.1" x2="729.5" y2="1353.1"/>
+<line class="st6" x1="532.7" y1="576.9" x2="712.8" y2="576.9"/>
+<line class="st6" x1="532.7" y1="707.4" x2="656.9" y2="707.4"/>
+<line class="st6" x1="138.9" y1="240.5" x2="138.9" y2="326.8"/>
+<line class="st6" x1="7.2" y1="64.6" x2="7.2" y2="349"/>
+<line class="st6" x1="105.8" y1="576.9" x2="316" y2="576.9"/>
+<line class="st6" x1="105.8" y1="1724.3" x2="279.2" y2="1724.3"/>
+<line class="st6" x1="105.8" y1="576.9" x2="105.8" y2="1724.3"/>
+<line class="st6" x1="200" y1="825.2" x2="200" y2="927.1"/>
+<line class="st6" x1="656.9" y1="331.3" x2="656.9" y2="572.1"/>
+<line class="st6" x1="656.9" y1="582.1" x2="656.9" y2="707.4"/>
+</svg>
